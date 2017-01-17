@@ -47,12 +47,12 @@
 "entrance":[1,1],
 "multiexit":[[11,8],[32,14]],
 "mobs" : [
-{"kind":"EarthElemental","x":32,"y":13, "level":100},
-{"kind":"EarthElemental","x":33,"y":14, "level":100},
-{"kind":"EarthElemental","x":34,"y":13, "level":100},
-{"kind":"EarthElemental","x":35,"y":14, "level":100},
-{"kind":"EarthElemental","x":36,"y":13, "level":100},
-{"kind":"EarthElemental","x":37,"y":14, "level":100},
-{"kind":"EarthElemental","x":38,"y":13, "level":100}
+{"kind":"EarthElemental","x":32,"y":13, "level":100, "var":3},
+{"kind":"EarthElemental","x":33,"y":14, "level":100, "var":4},
+{"kind":"EarthElemental","x":34,"y":13, "level":100, "var":2},
+{"kind":"EarthElemental","x":35,"y":14, "level":100, "var":1},
+{"kind":"EarthElemental","x":36,"y":13, "level":100, "var":4},
+{"kind":"EarthElemental","x":37,"y":14, "level":100, "var":0},
+{"kind":"EarthElemental","x":38,"y":13, "level":100, "var":3}
 ]
 }

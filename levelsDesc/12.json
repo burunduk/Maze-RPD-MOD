@@ -41,11 +41,11 @@
 "entrance":[1,1],
 "multiexit":[[33,33],[32,32]],
 "mobs" : [
-{"kind":"EarthElemental","x":31,"y":29, "level":100},
-{"kind":"EarthElemental","x":31,"y":27, "level":100},
-{"kind":"EarthElemental","x":32,"y":28, "level":100},
-{"kind":"EarthElemental","x":32,"y":26, "level":100},
-{"kind":"EarthElemental","x":32,"y":30, "level":100}
+{"kind":"EarthElemental","x":31,"y":29, "level":100, "var":3},
+{"kind":"EarthElemental","x":31,"y":27, "level":100, "var":4},
+{"kind":"EarthElemental","x":32,"y":28, "level":100, "var":0},
+{"kind":"EarthElemental","x":32,"y":26, "level":100, "var":1},
+{"kind":"EarthElemental","x":32,"y":30, "level":100, "var":2}
 ],
 "items": [
 {"kind":"PotionOfLevitation","x":32,"y":18},

@@ -60,9 +60,7 @@
 {"kind":"PotionOfMight","x":20,"y":5},
 {"kind":"PotionOfHealing","x":2,"y":1},
 {"kind":"PotionOfHealing","x":25,"y":3,"quantity":2},
-{"kind":"PotionOfHealing","x":20,"y":30},
-{"kind":"WandOfBlink","x":1,"y":1},
-{"kind":"PotionOfMight","x":1,"y":1,"quantity":9}
+{"kind":"PotionOfHealing","x":20,"y":30}
 ],
 "objects" : [
 {"kind" : "Sign", "x" : 2, "y" : 1, "text" : "Dep10_S1_Text"},
