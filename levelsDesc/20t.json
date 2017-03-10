@@ -51,6 +51,7 @@
 {"kind":"PotionOfLevitation","x":2,"y":29},
 {"kind":"PotionOfLevitation","x":29,"y":1},
 {"kind":"Keyring","x":29,"y":1},
-{"kind":"WarHammer","x":9,"y":29}
+{"kind":"DwarfToken","x":29,"y":1},
+{"kind":"WarHammer","x":9,"y":29,"identified": true}
 ]
 }

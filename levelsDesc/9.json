@@ -34,8 +34,8 @@
 "entrance":[4,15],
 "multiexit":[[26,26],[6,13]],
 "mobs" : [
-{"kind":"EarthElemental","x":7,"y":11, "level":100, "var":1},
-{"kind":"EarthElemental","x":8,"y":11, "level":100, "var":2}
+{"kind":"EarthElemental","x":7,"y":11, "level":400, "var":1},
+{"kind":"EarthElemental","x":8,"y":11, "level":400, "var":2}
 ],
 "items": [
 {"kind":"PotionOfMight","x":1,"y":18},
