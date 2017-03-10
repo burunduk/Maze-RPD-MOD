@@ -1,0 +1,64 @@
+{
+	"common": {
+		"armor": {
+			"kind": "ClothArmor",
+			"identified": true
+		}
+	},
+	"WARRIOR": {
+		"items": [{
+			"kind": "PotionOfLiquidFlame",
+			"identified": true
+		}]
+	},
+	"MAGE": {
+		"items": [{
+			"kind": "WandOfMagicMissile",
+			"identified": true
+		}],
+		"quickslot":[{
+			"kind": "WandOfMagicMissile"
+		}]
+	},
+	"ROGUE": {
+		"ring1": {
+			"kind": "RingOfShadows",
+			"identified": true,
+			"level": 1
+		}
+	},
+	"HUNTRESS": {
+		"items": [{
+			"kind": "PotionOfHealing",
+			"identified": true
+		}]
+	},
+	"ELF": {
+		"weapon": {
+			"kind": "WoodenBow",
+			"identified": true,
+			"level": 1
+		},
+		"items": [{
+			"kind": "CommonArrow",
+			"quantity": 20,
+			"identified": true
+		}],
+		"quickslot":[{
+			"kind": "CommonArrow"
+		}]
+	},
+	"NECROMANCER": {
+		"armor": {
+			"kind": "NecromancerRobe",
+			"identified": true
+		},
+		"items": [{
+			"kind": "SkeletonKey",
+			"levelId": "7"
+		}],
+		"quickslot":[{
+			"kind": "NecromancerRobe"
+		}]
+	}
+}

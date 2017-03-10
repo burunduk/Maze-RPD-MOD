@@ -34,7 +34,7 @@
 {"kind":"Eye","x":20,"y":1}
 ],
 "items": [
-{"kind":"WandOfBlink","x":5,"y":18},
+{"kind":"WandOfBlink","x":5,"y":18,"identified": true},
 {"kind":"PotionOfLiquidFlame","x":5,"y":20},
 {"kind":"PotionOfMight","x":7,"y":20}
 ]
