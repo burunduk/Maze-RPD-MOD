@@ -1,0 +1,27 @@
+﻿{
+   "texture" : "mobs/crystal.png",
+   "width" : 16,
+   "height" : 16,
+   "zapEffect" : "Shadow",
+   "idle" : {
+      "fps" : 4,
+      "looped" : true,
+      "frames" : [1,0,0,1,0]
+   },
+   "run" : {
+      "fps" : 8,
+      "looped" : true,
+      "frames" : [0,1,2,0,1]
+   },
+   "attack" : {
+      "fps" : 14,
+      "looped" : false,
+      "frames" : [0,2,3,3,2,2,0]
+   },
+   "die" : {
+      "fps" : 12,
+      "looped" : false,
+      "frames" : [0,4,4,4,5,6,7]
+   },
+   "bloodColor" : "0xFF777777"
+}

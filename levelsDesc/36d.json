@@ -1,0 +1,17 @@
+﻿{
+"width":5,
+"height":5,
+"map":[ 4, 4, 4, 4, 4,
+ 4, 7,35, 1, 4,
+ 4, 1,35, 1, 4,
+ 4, 1,35,11, 4,
+ 4, 4, 4, 4, 4
+],
+"tiles":"tiles4.png",
+"water":"water4.png",
+"entrance":[1,1],
+"exit":[4,4],
+"items": [
+{"kind":"DwarfToken","x":3,"y":3}
+]
+}

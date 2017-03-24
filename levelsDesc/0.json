@@ -3,11 +3,11 @@
 "height":3,
 "map":[ 
  4, 4, 4,
- 4, 8, 4,
+ 4, 1, 4,
  4, 4, 4
 ],
 "tiles":"tiles0.png",
 "water":"water0.png",
-"entrance":[1,1],
-"exit":[1,1]
+"entrance":[0,0],
+"exit":[2,2]
 }

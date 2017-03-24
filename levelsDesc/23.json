@@ -120,8 +120,7 @@
 {"kind":"Eye","x":23,"y":26}
 ],
 "items":[
-{"kind":"Icecap.Seed","x":53,"y":7},
-{"kind":"Fadeleaf.Seed","x":40,"y":24},
+{"kind":"DwarfToken","x":40,"y":24},
 {"kind":"PotionOfMight","x":6,"y":25},
 {"kind":"Pasty","x":6,"y":26}
 ],
