@@ -1,4 +1,4 @@
-﻿["EarthElemental_Name","Guardian"],
+["EarthElemental_Name","Guardian"],
 ["EarthElemental_Desc","Guardians - ordinary inhabitants of the maze. Nevertheless, they do not care who are you, how to get here and was it intentionally. The guard should only... To be honest, he's just drinking tea and eating cookies here :3"],
 ["EarthElemental_Name_Objective","guard"],
 ["Tengu_Name","Reflection of Tengu"],
@@ -89,4 +89,5 @@
 ["Dep38_S2_Text","This place is protected from your tricks with pathes that can lead you to the need point without crazy ways to get to the point. Amazing, isn't it?"],
 ["RottenRation_Info","Little cookie. It's not necessary to try it on taste. \n Guardians hate it. Besides, it smells so awful that you become smells like it. Since it's you messed up the cookie will undoubtedly now it's YOUR cookie."],
 ["RottenRation_Name","Your cookie"],
-["Welcome_Text_26_3","maze.chapter4 : \n - New crystal sprite  \n - Added new chapter (boss not included)  \n - Finnaly added rotten coockie \n - Now 17 and 18 levels more easier"]
+["Welcome_Text_26_3","maze.chapter4 : \n - New crystal sprite  \n - Added new chapter (boss not included)  \n - Finnaly added rotten coockie \n - Now 17 and 18 levels more easier"],
+["Dep20t_Text","There is exit closely. A lot of dangers expect you ahead, but only exit will not hurt you."]

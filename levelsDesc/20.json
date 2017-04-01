@@ -85,7 +85,7 @@
 		"kind": "ScrollOfRecharging",
 		"x": 18,
 		"y": 3,
-		"quantity": 80
+		"quantity": 111
 	}, {
 		"kind": "PotionOfLevitation",
 		"x": 3,
