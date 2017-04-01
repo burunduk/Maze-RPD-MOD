@@ -8,6 +8,6 @@
 ],
 "tiles":"tiles0.png",
 "water":"water0.png",
-"entrance":[2,2],
-"exit":[0,0]
+"entrance":[0,0],
+"exit":[2,2]
 }

@@ -54,7 +54,7 @@
 {"kind":"IronKey","x":2,"y":39},
 {"kind":"Ration","x":14,"y":30},
 {"kind":"Ration","x":31,"y":34},
-{"kind":"PotionOfMight","x":28,"y":18}
+{"kind":"PotionOfHealing","x":28,"y":18}
 ],
 "objects":[
 {"kind":"Barrel","x":33,"y":2},
