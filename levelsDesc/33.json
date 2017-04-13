@@ -98,7 +98,6 @@
 {"kind":"PotionOfMight","x":11,"y":27},
 {"kind":"PotionOfLevitation","x":23,"y":2},
 {"kind":"PotionOfLevitation","x":47,"y":9},
-{"kind":"Ration","x":25,"y":19},
 {"kind":"WandOfTelekinesis","x":1,"y":1,"level":"30"},
 {"kind":"Firebloom.Seed","x":37,"y":27}
 ]

@@ -50,7 +50,6 @@
 "items": [
 {"kind":"PotionOfInvisibility","x":45,"y":2},
 {"kind":"PotionOfLevitation","x":25,"y":15},
-{"kind":"PotionOfHealing","x":42,"y":7},
 {"kind":"PotionOfLevitation","x":45,"y":2},
 {"kind":"ScrollOfUpgrade","x":54,"y":25}
 ]

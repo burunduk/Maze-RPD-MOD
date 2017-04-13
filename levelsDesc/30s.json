@@ -44,7 +44,6 @@
 {"kind"="Firebloom.Seed", "x"=8, "y"=24},
 {"kind"="ScrollOfLullaby", "x"=23, "y"=21},
 {"kind"="PotionOfMight", "x"=23, "y"=14,"quantity":2},
-{"kind"="Ration", "x"=23, "y"=14,"quantity":2},
 {"kind"="PotionOfHealing", "x"=23, "y"=14,"quantity":2},
 {"kind"="PotionOfHealing", "x"=20, "y"=21,"quantity":3}
 ],

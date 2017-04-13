@@ -62,7 +62,6 @@
 {"kind":"EarthElemental","x":19,"y":27, "level":400, "var":1}
 ],
 "items": [
-{"kind":"Ration","x":1,"y":15},
 {"kind":"PotionOfLiquidFlame","x":41,"y":1},
 {"kind":"PotionOfMight", "x":1,"y":39}
 ],

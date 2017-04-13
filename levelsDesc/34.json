@@ -51,7 +51,6 @@
 "items": [
 {"kind":"PotionOfMight","x":18,"y":21},
 {"kind":"IronKey","x":2,"y":32},
-{"kind":"Ration","x":1,"y":16},
 {"kind":"Firebloom.Seed","x":37,"y":33},
 {"kind":"IronKey","x":39,"y":4},
 {"kind":"Codex","x":40,"y":1,"text":"Hidden_stairs_Text"}

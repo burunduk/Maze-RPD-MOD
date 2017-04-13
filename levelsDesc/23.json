@@ -121,8 +121,7 @@
 ],
 "items":[
 {"kind":"DwarfToken","x":40,"y":24},
-{"kind":"PotionOfMight","x":6,"y":25},
-{"kind":"Pasty","x":6,"y":26}
+{"kind":"PotionOfMight","x":6,"y":25}
 ],
 "objects" : [
 {"kind" : "Sign", "x" : 18, "y" : 45, "text" : "Dep23_Text"}

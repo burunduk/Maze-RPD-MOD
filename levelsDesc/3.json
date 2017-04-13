@@ -33,8 +33,7 @@
 "multiexit":[[24,24],[12,12]],
 "items": [
 {"kind":"PotionOfMight","x":15,"y":2},
-{"kind":"PotionOfLevitation","x":22,"y":13},
-{"kind":"Ration","x":2,"y":22}
+{"kind":"PotionOfLevitation","x":22,"y":13}
 ],
 "objects" : [
 {"kind" : "Sign", "x" : 3, "y" : 3, "text" : "Dep3_Text"}
