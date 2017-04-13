@@ -70,7 +70,6 @@
 ],
 "items": [
 {"kind":"IronKey","x":22,"y":14},
-{"kind":"Ration","x":22,"y":44,"quantity":2},
 {"kind":"PotionOfLevitation","x":5,"y":45},
 {"kind":"PotionOfLiquidFlame","x":27,"y":1}
 ]

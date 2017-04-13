@@ -88,7 +88,6 @@
 {"kind":"IronKey","x":5,"y":13},
 {"kind":"IronKey","x":35,"y":9},
 {"kind":"IronKey","x":9,"y":41},
-{"kind":"ScrollOfMagicMapping","x":61,"y":11},
-{"kind":"Ration","x":60,"y":54}
+{"kind":"ScrollOfMagicMapping","x":61,"y":11}
 ]
 }

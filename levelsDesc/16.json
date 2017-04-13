@@ -48,7 +48,6 @@
 "multiexit":[[39,39],[30,22]],
 "items": [
 {"kind":"IronKey","x":3,"y":3},
-{"kind":"PotionOfLevitation","x":1,"y":3},
-{"kind":"OverpricedRation","x":16,"y":37}
+{"kind":"PotionOfLevitation","x":1,"y":3}
 ]
 }

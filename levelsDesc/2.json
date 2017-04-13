@@ -35,7 +35,6 @@
    {"kind"="Sign", "x"=2, "y"=21, "text"="Dep2_Text"}
    ],
    "items" = [
-   {"kind"="Ration", "x"=2, "y"=2},
    {"kind"="IronKey", "x"=22, "y"=2},
    {"kind"="PotionOfFrost", "x"=5, "y"=11},
    {"kind"="PotionOfMight", "x"=22, "y"=22}

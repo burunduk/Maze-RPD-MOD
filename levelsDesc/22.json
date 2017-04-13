@@ -123,7 +123,6 @@
 {"kind":"PotionOfLiquidFlame","x":13,"y":57},
 {"kind":"PotionOfLevitation","x":13,"y":57},
 {"kind":"ScrollOfMagicMapping","x":11,"y":61},
-{"kind":"Ration","x":40,"y":59},
 {"kind":"Firebloom.Seed","x":39,"y":81},
 {"kind":"PotionOfMight","x":13,"y":80},
 {"kind":"PotionOfFrost","x":26,"y":89},

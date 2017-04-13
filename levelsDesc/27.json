@@ -49,9 +49,7 @@
 "entrance":[1,1],
 "multiexit":[[41,41],[35,38]],
 "items": [
-{"kind":"Ration","x":29,"y":2},
 {"kind":"IronKey","x":40,"y":1},
-{"kind":"Ration","x":40,"y":36},
 {"kind":"PotionOfMight","x":6,"y":38},
 {"kind":"PotionOfLiquidFlame","x":34,"y":31}
 ]

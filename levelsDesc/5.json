@@ -41,7 +41,6 @@
 "items": [
 {"kind":"PotionOfLevitation","x":23,"y":1},
 {"kind":"PotionOfMight","x":4,"y":29},
-{"kind":"Ration","x":28,"y":22},
 {"kind":"IronKey","x":6,"y":1}
 ]
 }

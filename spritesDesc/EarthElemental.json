@@ -19,8 +19,8 @@
    },
    "die" : {
       "fps" : 20,
-      "looped" : false,
-      "frames" : [14, 15, 16, 17, 18]
+      "looped" : true,
+      "frames" : [11, 12, 13, 14]
    },
    "bloodColor" : "0xFF7DFF7D"
 }

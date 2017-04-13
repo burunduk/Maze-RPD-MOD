@@ -80,11 +80,9 @@
 {"kind":"Crystal","x":29,"y":25, "level":400, "loot":{"kind":"WandOfFirebolt", "level":"400"}}
 ],
 "items": [
-{"kind":"PotionOfHealing","x":4,"y":2},
 {"kind":"IronKey","x":45,"y":3},
 {"kind":"IronKey","x":31,"y":36},
 {"kind":"IronKey","x":46,"y":36},
-{"kind":"Ration","x":23,"y":15},
 {"kind":"PotionOfFrost","x":23,"y":23},
 {"kind":"Firebloom.Seed","x":1,"y":29}
 ]

@@ -7,7 +7,6 @@
  "width":50,
  "items":[
  {"kind":"PotionOfMight","x":28,"y":16},
- {"kind":"Ration","x":10,"y":21},
  {"kind":"PotionOfLevitation","x":24,"y":44},
  {"kind":"PotionOfLiquidFlame","x":31,"y":48},
  {"kind":"IronKey","x":38,"y":34},
