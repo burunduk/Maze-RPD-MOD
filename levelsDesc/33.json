@@ -98,11 +98,7 @@
 {"kind":"PotionOfMight","x":11,"y":27},
 {"kind":"PotionOfLevitation","x":23,"y":2},
 {"kind":"PotionOfLevitation","x":47,"y":9},
-<<<<<<< HEAD
 {"kind":"WandOfTelekinesis","x":1,"y":1,"level":"30","identified": true},
-=======
-{"kind":"WandOfTelekinesis","x":1,"y":1,"level":"30"},
->>>>>>> refs/remotes/NYRDS/master
 {"kind":"Firebloom.Seed","x":37,"y":27}
 ]
 }

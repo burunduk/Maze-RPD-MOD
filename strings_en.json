@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 ﻿["G_Name","Guardian"],
 ["G_Desc","Guardians - ordinary inhabitants of the maze. Nevertheless, they do not care who are you, how to get here and was it intentionally. The guard should only... To be honest, he's just drinking tea and eating cookies here :3"],
 ["G_Name_Objective","guard"],
-=======
-﻿["EarthElemental_Name","Guardian"],
-["EarthElemental_Desc","Guardians - ordinary inhabitants of the maze. Nevertheless, they do not care who are you, how to get here and was it intentionally. The guard should only... To be honest, he's just drinking tea and eating cookies here :3"],
-["EarthElemental_Name_Objective","guard"],
->>>>>>> refs/remotes/NYRDS/master
 ["Tengu_Name","Reflection of Tengu"],
 ["Tengu_Desc","Tengu are members of the ancient assassins clan, which is also called Tengu. These assassins are noted for extensive use of shurikens and traps. The one you see is just an illusion, that can be understood by flicker and power, insufficient for such legendary warrior."],
 ["Tengu_Name_Objective","reflection"],
@@ -99,7 +93,6 @@
 ["Hunger_Info2","Cursed"],
 ["Hunger_Starving","You are cursed, and only cookies can help you!","You are cursed, and only cookies can help you!","You are cursed, and only cookies can help you!"],
 ["Hunger_Hungry","You are maledictioned!","You are maledictioned!","You are maledictioned!"],
-<<<<<<< HEAD
 ["Hunger_Death","You damaged from curse to death..."],
 ["WandOfBlink_Name","Ball of lightning"],
 ["RingOfDetection_Name","Dragon eye"],
@@ -118,6 +111,3 @@
 ["ScrollOfRecharging_Info1b","a surge of energy courses through your pack, recharging your artifacts"],
 ["ScrollOfRecharging_Info2","a surge of energy courses through your pack, but nothing happens"],
 ["Welcome_Text_27","maze.chapter4.fix1 :  \n - icons of hunger updated  \n updated wands' sprites  \n -added banners  \n -healing potions are replaced to dewdrops (impossibility of collection)  \n -warrior is looks like a gladiator now (necessary)"]
-=======
-["Hunger_Death","You damaged from curse to death..."]
->>>>>>> refs/remotes/NYRDS/master

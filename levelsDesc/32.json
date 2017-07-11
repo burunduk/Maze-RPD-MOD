@@ -75,10 +75,7 @@
 {"kind":"G3","x":13,"y":13}
 ],
 "items": [
-<<<<<<< HEAD
 {"kind":"Dewdrop","x":29,"y":5,"quantity":100},
-=======
->>>>>>> refs/remotes/NYRDS/master
 {"kind":"IronKey","x":10,"y":11},
 {"kind":"IronKey","x":15,"y":10},
 {"kind":"IronKey","x":11,"y":16},
