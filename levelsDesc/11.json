@@ -42,7 +42,11 @@
 "multiexit":[[33,33],[32,32]],
 "items": [
 {"kind":"IronKey","x":11,"y":15},
+<<<<<<< HEAD
 {"kind":"Dewdrop","x":32,"y":10,"quantity":100},
+=======
+{"kind":"PotionOfHealing","x":32,"y":10},
+>>>>>>> refs/remotes/NYRDS/master
 {"kind":"PotionOfMight","x":3,"y":32},
 {"kind":"PotionOfMight","x":5,"y":32},
 {"kind":"PotionOfMight","x":12,"y":29},

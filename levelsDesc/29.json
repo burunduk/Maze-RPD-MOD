@@ -80,7 +80,10 @@
 {"kind":"Crystal","x":29,"y":25, "level":400, "loot":{"kind":"WandOfFirebolt", "level":"400"}}
 ],
 "items": [
+<<<<<<< HEAD
 {"kind":"Dewdrop","x":4,"y":2,"quantity":100},
+=======
+>>>>>>> refs/remotes/NYRDS/master
 {"kind":"IronKey","x":45,"y":3},
 {"kind":"IronKey","x":31,"y":36},
 {"kind":"IronKey","x":46,"y":36},
