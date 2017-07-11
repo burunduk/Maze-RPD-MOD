@@ -51,10 +51,8 @@
 "items": [
 {"kind":"ScrollOfUpgrade","x":36,"y":5},
 {"kind":"PotionOfInvisibility","x":26,"y":14},
-{"kind":"IronKey","x":2,"y":39},
-{"kind":"Ration","x":14,"y":30},
-{"kind":"Ration","x":31,"y":34},
-{"kind":"PotionOfHealing","x":28,"y":18}
+{"kind":"Dewdrop","x":28,"y":18,"quantity":100},
+{"kind":"IronKey","x":2,"y":39}
 ],
 "objects":[
 {"kind":"Barrel","x":33,"y":2},

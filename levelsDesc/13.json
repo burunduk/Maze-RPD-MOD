@@ -46,7 +46,6 @@
 {"kind":"IronKey","x":7,"y":9,"quantity":2},
 {"kind":"PotionOfLevitation","x":34,"y":10},
 {"kind":"PotionOfInvisibility","x":24,"y":21},
-{"kind":"Ration","x":18,"y":1},
 {"kind":"PotionOfMight","x":14,"y":27}
 ]
 }

@@ -1,0 +1,18 @@
+{
+   "defenseSkill"  :999,
+   "attackSkill"   :999,
+   "exp"           :0,
+   "maxLvl"        :1,
+   "dmgMin"        :999,
+   "dmgMax"        :999,
+   "dr"            :999,
+   "baseSpeed"     :2,
+   "attackDelay"   :0.5,
+   "ht"            :-50000,
+   "name"          :"Shadow_Name",
+   "name_objective":"Shadow_Name_Objective",
+   "description"   :"Shadow_Desc",
+   "gender"        :"Shadow_Gender",
+   "spriteDesc"    :"spritesDesc/Sh.json",
+   "walkingType"   :"WALL"
+}

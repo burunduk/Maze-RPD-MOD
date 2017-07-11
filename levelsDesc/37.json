@@ -72,14 +72,14 @@
 "entrance":[37,15],
 "multiexit":[[64,64],[61,63]],
 "mobs" : [
-{"kind":"EarthElemental","x":11,"y":49, "level":400, "var":2},
-{"kind":"EarthElemental","x":12,"y":51, "level":400, "var":0},
-{"kind":"EarthElemental","x":13,"y":49, "level":400, "var":3},
-{"kind":"EarthElemental","x":14,"y":51, "level":400, "var":1},
-{"kind":"EarthElemental","x":15,"y":49, "level":400, "var":2},
-{"kind":"EarthElemental","x":16,"y":51, "level":400, "var":0},
-{"kind":"EarthElemental","x":17,"y":49, "level":400, "var":3},
-{"kind":"EarthElemental","x":18,"y":51, "level":400, "var":1},
+{"kind":"G2","x":11,"y":49},
+{"kind":"G0","x":12,"y":51},
+{"kind":"G3","x":13,"y":49},
+{"kind":"G1","x":14,"y":51},
+{"kind":"G2","x":15,"y":49},
+{"kind":"G0","x":16,"y":51},
+{"kind":"G3","x":17,"y":49},
+{"kind":"G1","x":18,"y":51},
 {"kind":"Scorpio","x":25,"y":52, "loot":{"kind":"Firebloom.Seed"}}
 ],
 "items": [
@@ -88,7 +88,6 @@
 {"kind":"IronKey","x":5,"y":13},
 {"kind":"IronKey","x":35,"y":9},
 {"kind":"IronKey","x":9,"y":41},
-{"kind":"ScrollOfMagicMapping","x":61,"y":11},
-{"kind":"Ration","x":60,"y":54}
+{"kind":"ScrollOfMagicMapping","x":61,"y":11}
 ]
 }

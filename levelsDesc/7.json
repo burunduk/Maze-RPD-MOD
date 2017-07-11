@@ -34,7 +34,7 @@
 "entrance":[14,1],
 "multiexit":[[26,26],[3,11]],
 "mobs" : [
-{"kind":"EarthElemental","x":6,"y":14, "level":400, "loot":{"kind":"Codex","text":"Dep7_Text"}, "var":0}
+{"kind":"G0","x":6,"y":14, "loot":{"kind":"Codex","text":"Dep7_Text"}}
 ],
 "items": [
 {"kind":"IronKey","x":6,"y":5},

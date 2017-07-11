@@ -58,12 +58,7 @@
 ],
 "items" = [
 {"kind"="PotionOfLiquidFlame", "x"=9, "y"=1},
-{"kind"="Ration", "x"=27, "y"=5},
-{"kind"="Ration", "x"=43, "y"=13},
-{"kind"="PotionOfHealing", "x"=11, "y"=25},
 {"kind"="PotionOfInvisibility", "x"=21, "y"=29},
-{"kind"="PotionOfHealing", "x"=33, "y"=33},
-{"kind"="PotionOfMight", "x"=3, "y"=45},
-{"kind"="PotionOfHealing", "x"=11, "y"=43}
+{"kind"="PotionOfMight", "x"=3, "y"=45}
 ]
 }

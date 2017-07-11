@@ -1,0 +1,14 @@
+{ 
+"RingOfDetection": {
+"file":"items/dragonEye.png",
+"index":0
+}, 
+"WandOfTelekinesis": {
+"file":"items/Artifands.png",
+"index":0
+}, 
+"WandOfBlink": {
+"file":"items/Artifands.png",
+"index":1
+}
+}

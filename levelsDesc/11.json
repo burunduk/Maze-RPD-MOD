@@ -42,8 +42,7 @@
 "multiexit":[[33,33],[32,32]],
 "items": [
 {"kind":"IronKey","x":11,"y":15},
-{"kind":"Ration","x":32,"y":10,"quantity":3},
-{"kind":"PotionOfHealing","x":32,"y":10,"quantity":2},
+{"kind":"Dewdrop","x":32,"y":10,"quantity":100},
 {"kind":"PotionOfMight","x":3,"y":32},
 {"kind":"PotionOfMight","x":5,"y":32},
 {"kind":"PotionOfMight","x":12,"y":29},

@@ -50,8 +50,8 @@
 {"kind":"PotionOfHealing","x":9,"y":29,"quantity":20},
 {"kind":"PotionOfLevitation","x":2,"y":29},
 {"kind":"PotionOfLevitation","x":29,"y":1},
-{"kind":"Keyring","x":29,"y":1},
-{"kind":"DwarfToken","x":29,"y":1},
+{"kind":"Ankh","x":29,"y":1},
+{"kind":"Ration","x":29,"y":1},
 {"kind":"WarHammer","x":9,"y":29,"identified": true}
 ],
 "objects" : [

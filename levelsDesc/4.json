@@ -46,7 +46,6 @@
    ],
    "items" = [
    {"kind"="PotionOfLevitation", "x"=10, "y"=31},
-   {"kind"="Ration", "x"=28, "y"=10},
    {"kind"="PotionOfMight", "x"=2, "y"=18},
    {"kind"="PotionOfLiquidFlame", "x"=4, "y"=5}
    ]

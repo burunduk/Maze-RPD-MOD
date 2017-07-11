@@ -10,11 +10,5 @@
 			"kind": "PotionOfLiquidFlame",
 			"identified": true
 		}]
-	},
-	"HUNTRESS": {
-		"items": [{
-			"kind": "PotionOfHealing",
-			"identified": true
-		}]
 	}
 }
