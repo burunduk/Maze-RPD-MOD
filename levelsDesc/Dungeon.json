@@ -43,7 +43,7 @@
       "32":{"kind":"PredesignedLevel", "depth":32,  "size":[0,0], "file":"levelsDesc/32.json", "isSafe":true},
       "32b":{"kind":"PredesignedLevel", "depth":32,  "size":[0,0], "file":"levelsDesc/32b.json", "isSafe":true},
       "33":{"kind":"PredesignedLevel", "depth":33,  "size":[0,0], "file":"levelsDesc/33.json", "isSafe":true},
-      "34":{"kind":"PredesignedLevel", "depth":34,  "size":[0,0], "file":"levelsDesc/34.json", "isSafe":true},
+      "34":{"kind":"PredesignedLevel", "depth":34,  "size":[0,0], "file":"levelsDesc/34.json", "isSafe":true,"viewDistance":1},
       "35":{"kind":"PredesignedLevel", "depth":35,  "size":[0,0], "file":"levelsDesc/35.json", "isSafe":true},
       "36.1":{"kind":"PredesignedLevel", "depth":36,  "size":[0,0], "file":"levelsDesc/36.json", "isSafe":true},
       "36.2":{"kind":"PredesignedLevel", "depth":36,  "size":[0,0], "file":"levelsDesc/36.json", "isSafe":true},

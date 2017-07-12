@@ -51,6 +51,7 @@
 "items": [
 {"kind":"ScrollOfUpgrade","x":36,"y":5},
 {"kind":"PotionOfInvisibility","x":26,"y":14},
+{"kind":"Dewdrop","x":28,"y":18,"quantity":100},
 {"kind":"IronKey","x":2,"y":39}
 ],
 "objects":[
