@@ -59,7 +59,7 @@
 {"kind"="SpiderNest", "x"=10, "y"=4},
 {"kind"="SpiderNest", "x"=12, "y"=2},
 {"kind"="SpiderNest", "x"=14, "y"=4},
-{"kind"="SpiderEgg", "x"=8, "y"=19},
+{"kind"="SpiderEgg", "x"=8, "y"=19, "loot":{"kind":"Gold"}},
 {"kind"="SpiderNest", "x"=10, "y"=21}
 ]
 }

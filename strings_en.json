@@ -110,4 +110,7 @@
 ["ScrollOfRecharging_Info1a","a surge of energy courses through your pack, recharging your artifact"],
 ["ScrollOfRecharging_Info1b","a surge of energy courses through your pack, recharging your artifacts"],
 ["ScrollOfRecharging_Info2","a surge of energy courses through your pack, but nothing happens"],
-["Welcome_Text_27","maze.chapter4.fix1 :  \n - icons of hunger updated  \n updated wands' sprites  \n -added banners  \n -healing potions are replaced to dewdrops (impossibility of collection)  \n -warrior is looks like a gladiator now (necessary)"]
+["Welcome_Text_27","maze.chapter4.fix1 :  \n - icons of hunger updated  \n updated wands' sprites  \n -added banners  \n -healing potions are replaced to dewdrops (impossibility of collection)  \n -warrior is looks like a gladiator now (necessary)"],
+["TomeOfMastery_Name","Tome of Mastery 18+"],
+["TomeOfMastery_Info","Reading this book, you confirm that you have 18 floors old."],
+["Welcome_Text_27_2","maze.chapter4.fix2 : \n - fixed impassability of 10 lvl (Cause: new fire system) \n - fixed low distance view emeraged by editions in vanilla RPD."]

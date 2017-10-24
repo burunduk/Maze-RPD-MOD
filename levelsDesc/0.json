@@ -9,5 +9,6 @@
 "tiles":"tiles0.png",
 "water":"water0.png",
 "entrance":[0,0],
-"exit":[2,2]
+"exit":[2,2],
+"boss_level":true
 }
