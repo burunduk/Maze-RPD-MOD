@@ -1,14 +1,10 @@
 {
-	"common": {
-		"armor": {
-			"kind": "ClothArmor",
-			"identified": true
-		}
-	},
-	"WARRIOR": {
-		"items": [{
-			"kind": "PotionOfLiquidFlame",
-			"identified": true
-		}]
-	}
+"common": {
+"armor": {"kind": "ClothArmor","identified": true}
+},
+"WARRIOR": {
+"items": [{"kind": "PotionOfLiquidFlame","identified": true}],
+"startingSp": 0,
+"maxSp": 0
+}
 }
