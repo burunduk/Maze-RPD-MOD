@@ -50,9 +50,7 @@
 {"kind":"Goo","x":1,"y":14, "loot":{"kind":"Gold"} },
 {"kind":"Goo","x":2,"y":14, "loot":{"kind":"Gold"} },
 {"kind":"Goo","x":3,"y":14, "loot":{"kind":"Gold"} },
-{"kind":"Goo","x":4,"y":14, "loot":{"kind":"Gold"} },
-{"kind":"Goo","x":1,"y":15, "loot":{"kind":"Gold"} },
-{"kind":"Goo","x":2,"y":15, "loot":{"kind":"Gold"} }
+{"kind":"Goo","x":4,"y":14, "loot":{"kind":"Gold"} }
 ],
 "items": [
 {"kind":"Firebloom.Seed","x":23,"y":27},
