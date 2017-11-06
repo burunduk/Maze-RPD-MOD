@@ -33,33 +33,33 @@
 "water":"water_spider_nest.png",
 "entrance":[8,16],
 "multiexit":[[8,16],[19,15]],
-"objects" = [
-{"kind"="Sign", "x"=8, "y"=17, "text"="Dep30s_S1_Text"},
-{"kind"="Sign", "x"=6, "y"=21, "text"="Dep30s_S2_Text"},
-{"kind"="Sign", "x"=19, "y"=14, "text"="Hidden_stairs_Text"}
+"objects" : [
+{"kind":"Sign", "x":8, "y":17, "text":"Dep30s_S1_Text"},
+{"kind":"Sign", "x":6, "y":21, "text":"Dep30s_S2_Text"},
+{"kind":"Sign", "x":19, "y":14, "text":"Hidden_stairs_Text"}
 ],
-"items" = [
-{"kind"="DwarfToken", "x"=22, "y"=4},
-{"kind"="Ankh", "x"=19, "y"=15},
-{"kind"="Firebloom.Seed", "x"=8, "y"=24},
-{"kind"="ScrollOfLullaby", "x"=23, "y"=21},
-{"kind"="PotionOfMight", "x"=23, "y"=14,"quantity":2},
-{"kind"="PotionOfHealing", "x"=23, "y"=14,"quantity":2},
-{"kind"="PotionOfHealing", "x"=20, "y"=21,"quantity":3}
+"items" : [
+{"kind":"DwarfToken", "x":22, "y":4},
+{"kind":"Ankh", "x":19, "y":15},
+{"kind":"Firebloom.Seed", "x":8, "y":24},
+{"kind":"ScrollOfLullaby", "x":23, "y":21},
+{"kind":"PotionOfMight", "x":23, "y":14,"quantity":2},
+{"kind":"PotionOfHealing", "x":23, "y":14,"quantity":2},
+{"kind":"PotionOfHealing", "x":20, "y":21,"quantity":3}
 ],
-"mobs" = [
-{"kind"="SpiderNest", "x"=2, "y"=4},
-{"kind"="SpiderNest", "x"=4, "y"=2},
-{"kind"="SpiderNest", "x"=7, "y"=7},
-{"kind"="SpiderNest", "x"=8, "y"=7},
-{"kind"="SpiderNest", "x"=9, "y"=7},
-{"kind"="SpiderNest", "x"=6, "y"=4},
-{"kind"="SpiderQueen", "x"=7, "y"=2, "loot":{"kind":"IronKey"}},
-{"kind"="SpiderQueen", "x"=9, "y"=2, "loot":{"kind":"IronKey"}},
-{"kind"="SpiderNest", "x"=10, "y"=4},
-{"kind"="SpiderNest", "x"=12, "y"=2},
-{"kind"="SpiderNest", "x"=14, "y"=4},
-{"kind"="SpiderEgg", "x"=8, "y"=19, "loot":{"kind":"Gold"}},
-{"kind"="SpiderNest", "x"=10, "y"=21}
+"mobs" : [
+{"kind":"SpiderNest", "x":2, "y":4},
+{"kind":"SpiderNest", "x":4, "y":2},
+{"kind":"SpiderNest", "x":7, "y":7},
+{"kind":"SpiderNest", "x":8, "y":7},
+{"kind":"SpiderNest", "x":9, "y":7},
+{"kind":"SpiderNest", "x":6, "y":4},
+{"kind":"SpiderQueen", "x":7, "y":2, "loot":{"kind":"IronKey"}},
+{"kind":"SpiderQueen", "x":9, "y":2, "loot":{"kind":"IronKey"}},
+{"kind":"SpiderNest", "x":10, "y":4},
+{"kind":"SpiderNest", "x":12, "y":2},
+{"kind":"SpiderNest", "x":14, "y":4},
+{"kind":"SpiderEgg", "x":8, "y":19, "loot":{"kind":"Gold"}},
+{"kind":"SpiderNest", "x":10, "y":21}
 ]
 }

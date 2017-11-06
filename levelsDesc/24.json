@@ -63,6 +63,8 @@
 {"kind":"Firebloom.Seed","x":36,"y":29},
 {"kind":"PotionOfLiquidFlame","x":2,"y":39},
 {"kind":"PotionOfLevitation", "x":13,"y":18},
-{"kind":"PotionOfLevitation", "x":2,"y":39}
+{"kind":"PotionOfLevitation", "x":2,"y":39},
+{"kind":"Dewdrop","x":33,"y":1,"quantity":100},
+{"kind":"Dewdrop","x":34,"y":1,"quantity":100}
 ]
 }

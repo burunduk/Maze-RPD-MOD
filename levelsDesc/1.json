@@ -26,10 +26,10 @@
    "water":"water0.png",
    "entrance":[17,3],
    "multiexit":[[17,3],[2,17]],
-   "objects" = [
-   {"kind"="Sign", "x"=16, "y"=3, "text"="Dep1_Text"}
+   "objects" : [
+   {"kind":"Sign", "x":16, "y":3, "text":"Dep1_Text"}
    ],
-   "items" = [
-   {"kind"="PotionOfMight", "x"=2, "y"=2}
+   "items" : [
+   {"kind":"PotionOfMight", "x":2, "y":2}
    ]
    }

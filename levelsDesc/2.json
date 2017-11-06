@@ -31,12 +31,12 @@
    "water":"water0.png",
    "entrance":[2,22],
    "multiexit":[[24,24],[12,12]],
-   "objects" = [
-   {"kind"="Sign", "x"=2, "y"=21, "text"="Dep2_Text"}
+   "objects" : [
+   {"kind":"Sign", "x":2, "y":21, "text":"Dep2_Text"}
    ],
-   "items" = [
-   {"kind"="IronKey", "x"=22, "y"=2},
-   {"kind"="PotionOfFrost", "x"=5, "y"=11},
-   {"kind"="PotionOfMight", "x"=22, "y"=22}
+   "items" : [
+   {"kind":"IronKey", "x":22, "y":2},
+   {"kind":"PotionOfFrost", "x":5, "y":11},
+   {"kind":"PotionOfMight", "x":22, "y":22}
    ]
    }

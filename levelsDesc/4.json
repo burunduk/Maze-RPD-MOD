@@ -41,12 +41,12 @@
    "water":"water0.png",
    "entrance":[12,13],
    "multiexit":[[34,34],[27,27]],
-   "objects" = [
-   {"kind"="Sign", "x"=13, "y"=13, "text"="Dep4_Text"}
+   "objects" : [
+   {"kind":"Sign", "x":13, "y":13, "text":"Dep4_Text"}
    ],
-   "items" = [
-   {"kind"="PotionOfLevitation", "x"=10, "y"=31},
-   {"kind"="PotionOfMight", "x"=2, "y"=18},
-   {"kind"="PotionOfLiquidFlame", "x"=4, "y"=5}
+   "items" : [
+   {"kind":"PotionOfLevitation", "x":10, "y":31},
+   {"kind":"PotionOfMight", "x":2, "y":18},
+   {"kind":"PotionOfLiquidFlame", "x":4, "y":5}
    ]
    }
