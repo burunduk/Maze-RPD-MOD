@@ -1,0 +1,19 @@
+{
+   "defenseSkill"  :1,
+   "attackSkill"   :10,
+   "exp"           :6,
+   "maxLvl"        :9,
+   "dmgMin"        :0,
+   "dmgMax"        :0,
+   "dr"            :0,
+   "baseSpeed"     :1,
+   "attackDelay"   :1,
+   "ht"            :5,
+   "name"          :"SpiderMind_Name",
+   "name_objective":"SpiderMind_Name_Objective",
+   "description"   :"SpiderMind_Desc",
+   "gender"        :"SpiderMind_Gender",
+   "spriteDesc"    :"spritesDesc/SpiderMind.json",
+   "walkingType"   :"NORMAL",
+   "scriptFile"    :"scripts/mobs/Buffer"
+}
