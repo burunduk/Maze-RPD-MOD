@@ -15,5 +15,6 @@
    "gender"        :"SpiderMind_Gender",
    "spriteDesc"    :"spritesDesc/SpiderMind.json",
    "walkingType"   :"NORMAL",
-   "scriptFile"    :"scripts/mobs/Buffer"
+   "scriptFile"    :"scripts/mobs/Buffer",
+   "attackRange"   :8
 }
